@@ -1,5 +1,5 @@
 import { Model } from "mongoose";
-import { type } from './user.interface';
+
 
 export type TFullName = {
     firstName: string,
